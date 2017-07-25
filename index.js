@@ -1,1 +1,2 @@
 var sam;
+var bam;
